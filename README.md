@@ -21,3 +21,5 @@ Google의 개인정보처리방침: https://policies.google.com/privacy
 
 ## 문의
 개인정보 관련 문의: [gkgkglglznr@naver.com]
+
+https://[ghghgjgjznr-byte].github.io/privacy-policy
