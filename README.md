@@ -21,12 +21,3 @@ Google의 개인정보처리방침: https://policies.google.com/privacy
 
 ## 문의
 개인정보 관련 문의: [gkgkglglznr@naver.com]
-```
-
-**4. GitHub Pages 활성화**
-- Repository → Settings → Pages
-- Source → `Deploy from a branch`
-- Branch → `main` 선택 → Save
-- 잠시 후 주소 생성됨
-```
-https://[ghghgjgjznr-byte].github.io/privacy-policy
